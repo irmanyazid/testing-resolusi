@@ -1,4 +1,6 @@
 TESTING COBA GITHUB CONTOH - Resolusi 
 - Mencoba untuk konsisten 
-- Selalu mencoba hal hal yang sulit 
 - Kolaboarsi dengan orang lain
+- Membuat project baru
+- Selesaikan project yang ada
+
